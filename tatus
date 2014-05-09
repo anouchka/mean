@@ -1,0 +1,2471 @@
+commit c8a2e0fdbc88adf95760eff9ccbf76ac5059002d
+Author: anouchka <anouchka@hanmail.net>
+Date:   Fri May 9 05:51:13 2014 -0400
+
+    delete nohup.out
+
+commit b794a470a2c1a8f70dc2fa2be7f444cddc966358
+Author: dev <dev@gorgeous9.(none)>
+Date:   Fri May 9 03:26:22 2014 -0400
+
+    new
+
+commit 1e8870a3a6a8ef70571a49a0f9e922f8258e6de4
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Mar 10 13:46:35 2014 +0200
+
+    Addressed PR #309
+
+commit f044ff60e69193afa5183dcf512a1f6a9ba9fa7a
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Mar 10 13:25:29 2014 +0200
+
+    Adapted node.js style AUTHORS file and moved authership information there
+
+commit 46ac064dfc1dba58d6f1f3f30f4da05182d319d3
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Mar 10 13:22:37 2014 +0200
+
+    Moved authorship to AUTHORS file
+
+commit f744f38c2976a858149bfe4e2c220e9f09d6ad0d
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Mar 10 13:19:32 2014 +0200
+
+    Giving credit where it is due
+
+commit 0ba8b25142624e3e6989c090292297b5c94f4b8e
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Mon Mar 10 00:29:41 2014 +0200
+
+    Update README.md
+
+commit 1d5eae6e9ac12ea0186d42e546bad09b9ade0c3a
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Mon Mar 10 00:25:47 2014 +0200
+
+    Update README.md
+
+commit 18f6c058ed1fb936eb9b1e33e8a56c3cb99629d0
+Merge: be411aa 3a857b9
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Mon Mar 10 00:09:00 2014 +0200
+
+    Merge pull request #300 from JChanut/master
+    
+    Fixed a typo in comments
+
+commit be411aa342eae5855c1e0650172ed5e33159bfc5
+Merge: 831a27d 8e6f7be
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Mon Mar 10 00:08:48 2014 +0200
+
+    Merge pull request #293 from reergymerej/master
+    
+    Improve the grammar in the comments.
+
+commit 3a857b967babc428c8968ce88500e39013bfaa78
+Author: Jerry Chanut <jerry.chanut@steria.com>
+Date:   Tue Mar 4 12:41:12 2014 +0100
+
+    Clean some trailing commas in grunfile.js
+
+commit 0b6000c0aa210cacf01fc8e3705a2d972c89698f
+Author: Jerry Chanut <jerry.chanut@steria.com>
+Date:   Tue Mar 4 10:34:31 2014 +0100
+
+    Fixed a typo in comments
+
+commit 8e6f7be0f45ef24c689f8c9af5a27648a82bef88
+Author: Jeremy Greer <jeremygreer@reergymerej.com>
+Date:   Sat Mar 1 08:41:36 2014 -0500
+
+    Change Mocha test to clear only data generated from tests.
+
+commit 74cba389abd3c33ac6f2df808e453437b187825c
+Author: Jeremy Greer <jeremygreer@reergymerej.com>
+Date:   Sun Feb 23 19:39:09 2014 -0500
+
+    Improve the grammar in the comments.
+
+commit 831a27d7db99e3e1058b3e18061e93ae20d70e34
+Merge: da6ae71 b257c35
+Author: Ehud Shahak <udisun@gmail.com>
+Date:   Sat Feb 22 16:03:59 2014 +0200
+
+    Merge pull request #282 from krishnan-mani/master
+    
+    Fixes #281: Unit test fails for model User
+
+commit da6ae7197b9d59fc51971e88ea01ea3119011c99
+Author: ehud shahak <udisun@gmail.com>
+Date:   Sat Feb 22 15:59:32 2014 +0200
+
+    fixed prefix white space
+
+commit 74065a9373c9ec2ac5781e5fee823b950627e1c0
+Merge: ba13840 1ce22b3
+Author: ehud shahak <udisun@gmail.com>
+Date:   Sat Feb 22 15:58:06 2014 +0200
+
+    Merge branch 'master' of https://github.com/yinzhiqiang/mean into yinzhiqiang-master
+
+commit ba1384013cbcbaa45437e05062de3fd4e931b937
+Merge: 340487a 1ad943a
+Author: Ehud Shahak <udisun@gmail.com>
+Date:   Sat Feb 22 15:10:57 2014 +0200
+
+    Merge pull request #271 from vygis/master
+    
+    Fixed the livereload.js script source interpolation.
+
+commit 340487a939eab5fbe4bd46004c3c5c0020aa54f7
+Merge: 1dc6710 1e65935
+Author: Ehud Shahak <udisun@gmail.com>
+Date:   Sat Feb 22 10:30:19 2014 +0200
+
+    Merge pull request #265 from ehibes/master
+    
+    Update gruntfile.js to remove test/coverage directory from jshint config...
+
+commit 1ce22b32e57e211747753411875c6360a46d3803
+Author: James Yin <coocoon@gmail.com>
+Date:   Fri Feb 21 17:18:22 2014 +0800
+
+    fix Username can't be blank error when google auth
+    
+    https://github.com/linnovate/mean/issues/289
+
+commit 1dc671047710e67e3fdf37de8b1fb25983069126
+Merge: 0b9b70d 998b6ce
+Author: Ehud Shahak <udisun@gmail.com>
+Date:   Wed Feb 19 22:13:46 2014 +0200
+
+    Merge pull request #278 from ciccio86/master
+    
+    new nodemon version
+
+commit 0b9b70da139bdfe0d99d93cae97575b982f4d063
+Author: ehud shahak <udisun@gmail.com>
+Date:   Wed Feb 19 21:24:38 2014 +0200
+
+    fixed jshints indentations warnings
+
+commit 48d835955deaa3bf951db705d5f4c113e81e755a
+Merge: ddbf6a3 cce1475
+Author: ehud shahak <udisun@gmail.com>
+Date:   Wed Feb 19 11:43:20 2014 +0200
+
+    Merge branch 'master' of https://github.com/elmalto/mean into elmalto-master
+    
+    Conflicts:
+    	test/karma/karma.conf.js
+
+commit ddbf6a3593574fdaba2fc06059242a0ebef0a427
+Merge: 39c0148 4f90d49
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Mon Feb 17 22:13:39 2014 +0200
+
+    Merge pull request #273 from ciccio86/patch-1
+    
+    Update to grunt-nodemon 0.2.0
+
+commit 39c01487b307436a8889c50c7f1bc87cd5742436
+Merge: 37dedab 96e91dc
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Feb 17 21:54:21 2014 +0200
+
+    Merge branch 'master' of https://github.com/fyockm/mean into fyockm-master
+
+commit 37dedab4564082e4ba8c2dd6031635a457f13461
+Merge: 4c18d99 64061ae
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Mon Feb 17 21:42:15 2014 +0200
+
+    Merge pull request #283 from maximal/patch-1
+    
+    Mistype fix
+
+commit 64061aedf69b66769d43bc4b9e834ed3dc3710dc
+Author: MaximAL <almaximal@ya.ru>
+Date:   Mon Feb 17 18:51:38 2014 +0300
+
+    Mistype fix
+
+commit b257c352ecb079cb8200704693ff52f659e49b06
+Author: Krishnan Mani <kmani@equalexperts.com>
+Date:   Sun Feb 16 13:42:45 2014 +0530
+
+    Fixes #281: Unit test fails for model User
+
+commit 4f90d49d43df8c948ee916c60865876233da2cec
+Author: Francesco Pavone <ciccio1986@gmail.com>
+Date:   Fri Feb 14 20:42:37 2014 +0100
+
+    Update package.json grunt-nodemon 0.2.0
+
+commit 998b6ce5b9340d1044418868a7d36d42b007b7a2
+Author: Francesco Pavone <ciccio1986@gmail.com>
+Date:   Fri Feb 14 20:32:51 2014 +0100
+
+    new nodemon version
+    
+    update package.json to include new grunt-nodemon 0.2.0 version
+
+commit cce1475dcd18aa08aaea26434ff571e1e55431f0
+Author: elmalto <malte.buecken@gmail.com>
+Date:   Fri Feb 14 11:28:29 2014 +0100
+
+    updated tests and changed all routeparams to stateparams
+
+commit a60eeab0ab67217373264c126e39480f2606aa49
+Author: elmalto <malte.buecken@gmail.com>
+Date:   Fri Feb 14 11:17:14 2014 +0100
+
+    updated to use ui-router instead of ng-route
+
+commit 4c18d996a62d4066f61276f19ec23ad3e6cddf8f
+Merge: f52d6c3 6012c9a
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Tue Feb 11 08:40:15 2014 +0200
+
+    Merge pull request #274 from dmh2000/master
+    
+    Update Readme.md
+
+commit 6012c9a5938c73b6b1a41833da7f523c92ab0160
+Author: david howard <dmh2000@gmail.com>
+Date:   Mon Feb 10 16:02:46 2014 -0800
+
+    Update Readme.md
+    
+    The 'Getting Started' section has links to the 'articles' example. However the links were absolute so when the repo is forked the links still point back to the original linnovate repo path.
+    
+    In addition, the link for 'NodeJS Routes' had not been updated and did not point to a valid page.
+    
+    both these issues were corrected in this commit
+
+commit 21ca89d3926d9fc952195afad92be7ff68b0c586
+Author: Francesco Pavone <ciccio1986@gmail.com>
+Date:   Mon Feb 10 16:47:25 2014 +0100
+
+    Update to grunt-nodemon 0.2.0
+    
+    Updated to match new grunt-nodemon version 0.2.0 which changes some of the properties in the gruntfile.js file
+
+commit 1ad943a865129e0d3e0b28cf637fc4e15aad450b
+Author: vygis <vygintas.ranonis@gmail.com>
+Date:   Sun Feb 9 20:07:42 2014 +0000
+
+    Fixed the livereload.js script source interpolation.
+
+commit 96e91dc21f01f89f9e6ca484bf147192c0f2a883
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Sat Feb 8 21:17:45 2014 -0500
+
+    simplify User mocha test, exclude test/coverage from jshint
+
+commit d87d23164e2efbeae16cf9ab7da14ae816e09298
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Fri Feb 7 15:13:04 2014 -0500
+
+    fix mocha unit tests
+
+commit 3f1ca6a72825ad73faa0483a915d332a64508447
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Fri Feb 7 14:36:12 2014 -0500
+
+    update karma.conf for angular-utils
+
+commit 1e6593533ff6719f83a0d386dee915607e33d1d6
+Author: Ibes Mongabure <developpement@studiowaaz.com>
+Date:   Fri Feb 7 12:39:47 2014 +0100
+
+    Update gruntfile.js to remove test/coverage directory from jshint configuration
+
+commit f52d6c3a30ceb22098210bd9775091c306548aff
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Fri Feb 7 02:12:35 2014 +0200
+
+    Revert "Initial commit for the site"
+    
+    This reverts commit 4e37a3f2c748e5d2144675a92f15acc28ac8bdb2.
+
+commit 4e37a3f2c748e5d2144675a92f15acc28ac8bdb2
+Author: azure provisioned user <linnovate@linnoapps.linnoapps.a4.internal.cloudapp.net>
+Date:   Thu Feb 6 23:53:00 2014 +0000
+
+    Initial commit for the site
+
+commit 752854fafa9b68e240dfb5481d4b88b04650836e
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Thu Feb 6 23:58:22 2014 +0200
+
+    Fixed consolidate dying on behalf of a cache=true, it needs to be cahce=memory
+
+commit f0eb648cbd7dead42d02ae2cb620fd495a4d4e61
+Merge: 8499c45 30d9494
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Thu Feb 6 22:01:47 2014 +0200
+
+    Merge pull request #236 from fyockm/master
+    
+    use consolidate to make template engine configurable
+
+commit 30d949428e4f809490830aa7b62a082e5b51ded8
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Thu Feb 6 13:51:41 2014 -0500
+
+    #236 add .idea to gitignore
+
+commit f57b51d4856cb5f901cf268c2faf584c8f3f296e
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Mon Feb 3 14:02:43 2014 -0500
+
+    #236 fix travis asking for user input
+
+commit a0c9de3756b5ea897ba41ea96c1e98ebb0bfdd7f
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Mon Feb 3 13:46:39 2014 -0500
+
+    #236 implement swig instead of jade
+
+commit c2330e574c889973023cc1166099b887c9caf52f
+Merge: 412d6b3 8499c45
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Sat Feb 1 11:50:48 2014 -0500
+
+    #326 merge latest
+
+commit 8499c45df451d5b9d00a9691b13bd7cabf162b07
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Sun Jan 26 23:47:14 2014 +0200
+
+    Added requirement to passport-linkedin to the package.json to fulfill missing requirement.
+
+commit febf917679dc07a687ac4fed88da9e7a04b290b9
+Merge: 87e701d 58d2cbf
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Sun Jan 26 23:39:37 2014 +0200
+
+    Merge branch 'linkedin' of https://github.com/kalehv/mean into kalehv-linkedin
+
+commit 87e701d05c5efbe382286379535d7ad31d12e1ff
+Merge: 7907608 c6b6758
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Sun Jan 26 13:29:20 2014 -0800
+
+    Merge pull request #243 from jonaswindey/patch-2
+    
+    Update .bowerrc
+
+commit 79076086a9d8703b7343619b375338c1a42489d7
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Sun Jan 26 23:24:23 2014 +0200
+
+    upgrade to angular 1.2.10 to avoid interaction in bower installed based on https://github.com/linnovate/mean/pull/245 by #sogko
+
+commit 58d2cbf70653a7bc6c8b8a9781ccd2646d8ca6e0
+Author: Harshad Kale <harshad.kale@hotmail.com>
+Date:   Sat Jan 25 12:03:26 2014 -0600
+
+    Add linkedin support for login
+
+commit c6b6758cb5250b61cf7490072d945edf9f43d99c
+Author: jonaswindey <jonas.windey@gmail.com>
+Date:   Wed Jan 22 17:52:22 2014 +0100
+
+    Update .bowerrc
+    
+    Added fix for Heroku deployment ENOENT issues that occur since bower 1.2.8
+
+commit d59bf8645d2461d7b7942e4bd2464af6dd25526e
+Merge: 526fc0a 8324179
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Tue Jan 21 22:51:52 2014 +0200
+
+    Merge branch 'master' of https://github.com/lirantal/mean into lirantal-master
+
+commit 8324179ca283339bbf398dc7ead7c350aef92ffe
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Tue Jan 21 21:51:14 2014 +0200
+
+    cleaning up jslint warnings
+
+commit 526fc0a9d717cf95c5e275e68726f14e2b5c3743
+Merge: a5410c0 3963892
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Jan 20 23:55:50 2014 +0200
+
+    Merge branch 'enhancement-authtypes_refactor' of https://github.com/lirantal/mean into lirantal-enhancement-authtypes_refactor
+
+commit a5410c0fee92e7c91ff69fe9044c9dae4aef2605
+Merge: 6b9826b c0de030
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Sun Jan 19 22:58:31 2014 +0200
+
+    Merge branch 'master' of https://github.com/VikramTiwari/mean into VikramTiwari-master
+
+commit 6b9826b2c480a7fa66d935aa5db088a302f85114
+Merge: 02ff85a fac6ab8
+Author: Yonatan Ellman <jellman85@gmail.com>
+Date:   Sun Jan 19 00:56:54 2014 -0800
+
+    Merge pull request #240 from ellman/master
+    
+    Fixing grunt-nodemon and some dev dependency versions
+
+commit fac6ab852ad3a1ac7446f445ca5cd832f3af2aa1
+Author: yonatan <yonatan@yonatan-hp.(none)>
+Date:   Sun Jan 19 10:52:33 2014 +0200
+
+    Fixing grunt-nodemon and some dev dependency versions
+
+commit 55aeaadd615d7c2e377548d7c6c8f3ce5214afec
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Sat Jan 18 00:22:16 2014 +0200
+
+    fixed defect where no flash (error/success) messages would be displayed due to wrongly placed flash() call (it should go after passport.initialize and passport.session)
+
+commit 412d6b33362fb65c76f3da1f0625ebc53a213229
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Fri Jan 17 10:25:46 2014 -0500
+
+    use consolidate to make template engine configurable
+
+commit 6bacb0c79ed0826f8a377b363e9e702bcfea898b
+Merge: f0d9291 dea044c
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Thu Jan 16 21:38:04 2014 +0200
+
+    Merge branch 'enhancement-routes_refactor'
+
+commit f0d92918959c415f1dad492ff679f782aa0be79d
+Merge: ee63f17 3963892
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Thu Jan 16 21:37:55 2014 +0200
+
+    Merge branch 'enhancement-authtypes_refactor'
+
+commit c0de03085d6190c191c7b6a8e3dd5a64ec243831
+Author: VikramTiwari <Vikramtheone1@gmail.com>
+Date:   Wed Jan 15 14:11:19 2014 +0530
+
+    Current Stable
+    
+    Update to Current Stable versions for dependencies.
+    
+    angular: 1.2.8
+    bootstrap: 3.0.3
+    angular-boostrap: 0.10.0
+    angular-ui-utils: 0.1.0
+
+commit 57055a355b4715b2ea874b723a86c42933c24f70
+Author: VikramTiwari <Vikramtheone1@gmail.com>
+Date:   Wed Jan 15 11:57:23 2014 +0530
+
+    Everything Latest
+    
+    Bootstrap Latest
+    Angular Bootstrap Latest
+    Angular UI-Utils Latest
+
+commit 02ff85a50194c0d98040144cc4f0db574ae6c794
+Merge: 5c950bf ee63f17
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Tue Jan 14 14:09:10 2014 -0800
+
+    Merge pull request #226 from lirantal/master
+    
+    comment fixes, indentation and general cosmetic cleanup
+
+commit dea044c2e1e1bc3d0e4d7eb62485641f4e7079f0
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Mon Jan 13 00:42:53 2014 +0200
+
+    further refactoring of the route middlewares so they can be easily shared amongst app routes
+
+commit 0afb2e6ec93b251730d5a7a55b98053c4415ab5b
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Sun Jan 12 23:55:34 2014 +0200
+
+    refactoring so that app routes can be maintained more easily from app/ directory (which makes more sense)
+
+commit 3963892615e378b87eaedbde6aae82ccdff2c6a3
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Sun Jan 12 23:30:30 2014 +0200
+
+    small bug fix where Mongoose validation functions must always return booleans
+
+commit 969c6911d8ea530611ba3845782a67cdd5fee428
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Sun Jan 12 23:27:17 2014 +0200
+
+    instead of relying on previously hard-coded passport strategies we can assume that any user entry which have no provider set is a local strategy and apply our validations only on those empty provider members of the user model object
+
+commit 5c950bf60508e8a87499193674c1d888b6ad7eb7
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Jan 6 01:31:38 2014 +0200
+
+    Set versions based on npm install --save
+
+commit ee63f1712e617555b6061df6ef1074accc8d67e0
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Mon Jan 6 00:11:37 2014 +0200
+
+    moving out configuration items from express.js code to a proper configuration directive
+
+commit e2ea8dace9f4e8b9455142cd0fb23cc28bf2a345
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Sun Jan 5 23:27:18 2014 +0200
+
+    fixed small bug where logger was used also on production environment. Makes sense that original intent was to enable only for development environment
+
+commit add000d3a19ff5d157e32ecb446aaf3e761e83b6
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Sun Jan 5 23:14:11 2014 +0200
+
+    updating documentation
+
+commit 0e692c5bfc8fa061011d7ce689d521159d6bd96d
+Author: Liran Tal <liran.tal@gmail.com>
+Date:   Sun Jan 5 22:58:39 2014 +0200
+
+    comment fixes, indentation and general cosmetic cleanup
+
+commit bb910c5981c8d258175c7a4a19a2857abd29878d
+Merge: 6876427 8f30cda
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 30 06:18:47 2013 -0800
+
+    Merge pull request #213 from cm0s/master
+    
+    replace deprecated grunt-nodemon debug option
+
+commit 6876427698a4872465cdc97d40227d671898541b
+Merge: 923f744 6993150
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 30 06:15:21 2013 -0800
+
+    Merge pull request #215 from jonaswindey/patch-1
+    
+    Update package.json
+
+commit 923f744eacffbd5df8be958a50dccc6efae95f25
+Merge: 963794a c639ae6
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 30 06:14:54 2013 -0800
+
+    Merge pull request #212 from mackstar/master
+    
+    Replaced dependency on server.js for mocha tests.
+
+commit 6993150dcfdd99a25a5859ef95e6a049f8fa3e7b
+Author: jonaswindey <jonas.windey@gmail.com>
+Date:   Mon Dec 30 12:48:28 2013 +0100
+
+    Update package.json
+    
+    Re-added forever.js reference, since the Procfile for Heroku deployment runs: web: ./node_modules/.bin/forever -m 5 server.js
+
+commit 8f30cda7dfd027f901f8ffda88f2a243f2711792
+Author: Nicolas Forney <nicolas@eforney.com>
+Date:   Mon Dec 30 00:31:15 2013 +0100
+
+    replace deprecated grunt-nodemon debug option
+    
+    Since grunt-nodemon version 0.1.0 the debug option is deprecated and must
+    be replaced by a nodeArgs option.
+
+commit c639ae65c2a0e779a5b45500a47234f270bb890b
+Author: Richard McIntyre <richard.mackstar@gmail.com>
+Date:   Wed Dec 18 08:16:46 2013 +0000
+
+    Require server in gruntfile for mocha tests.
+
+commit cf7a3f0486a66e9ec75170848be6b1d9224d1bd4
+Author: Richard McIntyre <richard.mackstar@gmail.com>
+Date:   Wed Dec 18 08:16:46 2013 +0000
+
+    Replaced dependency on server.js for mocha tests.
+
+commit 963794a7f7a3176120adb540f5af521a77ad8257
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Dec 25 18:08:36 2013 +0200
+
+    Removed unnecessary modules
+
+commit 4c0ee357bdd58d23c92793a6bf3549c4e1024592
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Dec 25 16:54:08 2013 +0200
+
+    Fixing enviornment issue with new JSHint
+
+commit d8fe54d14f26ea8350d6c8f018451c12bb689dd2
+Merge: 822d7ca 2435a73
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Dec 25 16:37:19 2013 +0200
+
+    Properly run JSHint
+
+commit 822d7ca7b2d8bbff405264fbca39c838937bd619
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Dec 25 16:36:33 2013 +0200
+
+    Properly run JSHint
+
+commit 2435a7329121dd5257147952ea7781bb76a7c3f7
+Merge: d35cd02 c919364
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Dec 25 06:35:45 2013 -0800
+
+    Merge pull request #202 from naartjie/fix-02
+    
+    correct the livereload host
+
+commit d35cd02b820fe881e71924e0f90b29ebee9e22b4
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Dec 25 13:20:54 2013 +0200
+
+    Fixing jshint
+
+commit 2cd3512fef9b2a63a6960677c260ef4b12a6ee43
+Merge: 5a780aa a2f31f2
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 24 07:13:39 2013 -0800
+
+    Merge pull request #203 from gebrits/patch-1
+    
+    update gruntfile.js to let jshint adhere to .jshintrc
+
+commit a2f31f2c5d37aa3e7f54c13986953b8fa49f7a8f
+Author: Geert-Jan Brits <gbrits@gmail.com>
+Date:   Tue Dec 24 15:43:27 2013 +0100
+
+    update gruntfile.js to let jshint adhere to .jshintrc
+    
+    currently the `jshint:all` task doesn't take the .jshintrc-file into account. This pull corrects that.
+
+commit c9193642c92e12afc9613b9c2bb1258d0efe7a16
+Author: Marcin Jekot <marcin@jekot.net>
+Date:   Tue Dec 24 15:31:28 2013 +0200
+
+    correct the livereload host
+    
+    This let's you use an arbitrary host in development mode, and do cross machine/VM testing etc, with a hostname other than localhost
+
+commit 5a780aa34c17725363868748837ae5e9fccb239b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 23 19:52:54 2013 +0200
+
+    Adding Bower Resolutions
+
+commit 86186ad151f4113f00c579cb57e6a8ef91d3784e
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 23 19:45:27 2013 +0200
+
+    Fixing Facebook Redirect
+
+commit ef50e5da0da9061935c9ef60b0ea1b9bf46eaf91
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 23 19:36:55 2013 +0200
+
+    Fixing Facebook Redirect
+
+commit 46715a126825588f0510ca05ec04faaa12fbecc2
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 23 19:17:32 2013 +0200
+
+    Fixing Facebook Redirect
+
+commit 14147f7f88674585c71f1bebec3e4a2680f1e292
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 23 12:40:23 2013 +0200
+
+    Moving router above static
+
+commit 0c869a2ccad5465289a8daadae5c55e3a26e96e5
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 23 12:37:00 2013 +0200
+
+    Fixing the new Jade issues
+
+commit 614a9dfb12f6788e60d2ec81a616d16986244dab
+Merge: 81fea35 270d2c3
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Dec 23 02:06:45 2013 -0800
+
+    Merge pull request #196 from mrzepinski/patch-2
+    
+    one more time - update to valid Jade doctype
+
+commit 270d2c3fd61449b809b278dfd687a14c37666ca3
+Author: Maciej Rzepiński <maciej.rzepinski@gmail.com>
+Date:   Sun Dec 22 21:34:52 2013 +0100
+
+    one more time - update to valid Jade doctype
+
+commit 81fea3516ddb5ae4926096530d721011a0a7ee37
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Fri Dec 20 14:15:58 2013 +0200
+
+    Moving from Underscore to LoDash
+
+commit 9c6e5514f0e39a68b32062958d695fc613b98ca3
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Fri Dec 20 14:14:54 2013 +0200
+
+    Moving from Underscore to LoDash
+
+commit bac1a06628ab57358f892a6586875580f8979665
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Dec 19 21:05:27 2013 +0200
+
+    Fixing Heroku Bower Failure
+
+commit 1d9f1a0ce35b7c4dc21a7963bfc527ea9f73a4cb
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Dec 14 20:35:29 2013 +0200
+
+    Update users.js
+
+commit f8ac701c2550df5d8d53d97209d11a79a5d56b57
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Dec 12 18:42:54 2013 +0200
+
+    Fixing errors style
+
+commit d36b852e40cd17594b48c30aeb12c5929a0a914c
+Merge: 50b3b88 d3b9852
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Dec 12 06:47:06 2013 -0800
+
+    Merge pull request #173 from andrunix/master
+    
+    On the signin page, the error div was always visible even if it was empty.
+
+commit d3b98529be65a1f673731852d366625c6667e58e
+Author: Andrew Pierce <andrunix@gmail.com>
+Date:   Wed Dec 11 16:25:46 2013 -0500
+
+    Added check for empty salt before attempting to encrypt password. If you sign up with OAuth provider and then try to login with Email (local strategy), the Salt is empty and authentication fails.
+
+commit 2def71a53e61eaeba9eac9f3c26288c17e45bfbf
+Author: Andrew Pierce <andrunix@gmail.com>
+Date:   Wed Dec 11 15:49:19 2013 -0500
+
+    Moved flash messages from auth.jade to signin.jade. Placed within error div.
+
+commit 50b3b88c5808f0539014cac0725f2114c4fd7932
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 10 14:50:44 2013 +0200
+
+    Fixing Travis Stall
+
+commit 0697df0b6de904c29fe82b5178148c95ca266076
+Merge: 209b702 12037bc
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 10 04:33:06 2013 -0800
+
+    Merge pull request #160 from CREO-Agency/statics_overwrite
+    
+    Don't overwrite statics
+
+commit 209b7023da4fbe56d3fcf7df488d6b8f4c9c9df1
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 10 14:29:14 2013 +0200
+
+    AngularJS latest is good for now
+
+commit b99c166f61fa6b9b6cddab28307f3db750852725
+Merge: 4a07cde 1e75b42
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 10 04:26:30 2013 -0800
+
+    Merge pull request #162 from dizda/angular1.2.4
+    
+    Upgrade to latest stable version of AngularJS (1.2.4)
+
+commit 4a07cdec7fe61b0d6126fbaa7155699badcd7775
+Merge: 218da62 ebddcd3
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 10 04:10:46 2013 -0800
+
+    Merge pull request #158 from davychiu/master
+    
+    hash password with pbkdf2
+
+commit 218da624175041c7a1476840f5976a783cd7e64f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 10 13:32:05 2013 +0200
+
+    Fixing the Foot.jade to use env var instead of host
+
+commit 2d1542511b1f894cce504e5b08f3cd1be7067d81
+Merge: dbe7213 7a872fa
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 10 03:29:38 2013 -0800
+
+    Merge pull request #169 from theblacksmith/master
+    
+    Fix bug in foot.jade which tries to assign host instead of comparing it
+
+commit 7a872faecef339bce0b94fd2d551784ec7ca7f72
+Author: Saulo Vallory <me@saulovallory.com>
+Date:   Mon Dec 9 21:39:55 2013 -0200
+
+    Fix bug in foot.jade which tries to assign host instead of comparing it
+
+commit 1e75b420c8fa3ba999046de9c26d5037df369df2
+Author: Jonathan Dizdarevic <dizzda@gmail.com>
+Date:   Sat Dec 7 19:41:48 2013 +0100
+
+    lock to specified JS dependencies version
+
+commit f0ae031423ad096a12cf8af4632d69c6de9175ed
+Author: Jonathan Dizdarevic <dizzda@gmail.com>
+Date:   Sat Dec 7 19:33:03 2013 +0100
+
+    fix tests
+
+commit f2a85f8dcd2ba5892611d2fb2e7d1f6e9c21dcc5
+Author: Jonathan Dizdarevic <dizzda@gmail.com>
+Date:   Sat Dec 7 19:30:41 2013 +0100
+
+    Update to AngularJS 1.2.4
+
+commit 12037bc566f0b2d5570aaf54503a60f90cc1707e
+Author: John Williams <john@creoagency.com>
+Date:   Thu Dec 5 15:45:52 2013 -0800
+
+    Don't overwrite statics
+
+commit ebddcd319abbf76258a128a710f9ddad63c99da2
+Author: Davy Chiu <davychiu@gmail.com>
+Date:   Wed Dec 4 05:20:48 2013 -0800
+
+    hash password with pbkdf2
+
+commit dbe7213f773dcd7f406b9d61dc7f7387fb0c2065
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 3 02:43:52 2013 +0200
+
+    Removed the Show User method
+
+commit f358e810f51bf8a968ee3d43ed555ef9aa8d1b11
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 3 02:19:04 2013 +0200
+
+    Testing Fix
+
+commit 7354e781f15ee66fce246be0b1dd4fdd98a5af00
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 3 02:18:11 2013 +0200
+
+    Testing Fix
+
+commit 0ffe987c69ae42b71b0ee5d93f37441f69d20aaa
+Merge: db56846 673ac81
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Dec 3 02:12:47 2013 +0200
+
+    Merge branch 'pr/126'
+    
+    Conflicts:
+    	package.json
+
+commit db5684636bbfedc2ca069eb78fa19623c7e57366
+Author: Amos Haviv <amos@Amoss-MacBook-Pro.local>
+Date:   Fri Nov 22 03:37:48 2013 +0200
+
+    Remove window.app
+
+commit eeb54232a99f52fbd638f27a9dc4cfcb27b890d2
+Author: Amos Haviv <amos@Amoss-MacBook-Pro.local>
+Date:   Fri Nov 22 03:23:23 2013 +0200
+
+    Added Article Delete Support
+
+commit 8d1b13058d0ee2afc1c50829c2bbd79c34159542
+Merge: ca0d6a9 ad95ea3
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Nov 21 16:40:55 2013 -0800
+
+    Merge pull request #138 from peterblazejewicz/master
+    
+    Update middleware for body parsing in Express MEAN configuration
+
+commit ca0d6a9e55416e64304ca87cac4fe9be76a7cc96
+Author: Amos Haviv <amos@Amoss-MacBook-Pro.local>
+Date:   Fri Nov 22 02:39:12 2013 +0200
+
+    Fixing 'me' password leak
+
+commit 5505b3a6072c394a7c5e273f9869f71229094ca2
+Merge: e9c1f75 bf06b9a
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Nov 21 16:07:22 2013 -0800
+
+    Merge pull request #130 from opicacek/master
+    
+    Bootstrap template dependency fix
+
+commit e9c1f758b08404ca30d74b774e039eebc0d33515
+Merge: 390c9c9 3041b4f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Nov 21 15:54:54 2013 -0800
+
+    Merge pull request #129 from passkey1510/master
+    
+    Use module export instead of json string
+
+commit ad95ea36ef7a3c2ee6b6f0d5009f3353098479a9
+Author: Peter Blazejewicz <peter.blazejewicz@gmail.com>
+Date:   Sun Nov 17 18:53:17 2013 +0100
+
+    Update middleware for body parsing in Express MEAN configuration
+    
+    - update Express middleware configuration
+    - remove reference and documentation to bodyParser middleware
+    - add middleware for json/urlencoded requests
+    - Fixes #136 on MEAN linnovate/mean
+
+commit bf06b9af5ca5026756d3eefd5a91aeda84fd7f5e
+Author: Opi Danihelka <opicacek@seznam.cz>
+Date:   Fri Nov 8 15:29:44 2013 +0100
+
+    Bootstrap template dependency fix
+    
+    After switching of order these two lines, you are now able to use features from Angular Bootstrap UI, for example: ui.bootstrap.popover... Without fix there is a error raised caused by missing bootstrap dependency.
+
+commit 3041b4f858fc8aa5cb13f9f543203a2d149ace37
+Author: Kieu Anh Tuan <passkey1510@gmail.com>
+Date:   Thu Nov 7 18:41:05 2013 +0100
+
+    Use module export instead of json string so that we can use environment variable for credentials info
+
+commit 390c9c96f13c02ef9814783d87c2884815c9d22c
+Merge: f02f4ea 3f05db1
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Nov 7 06:11:23 2013 -0800
+
+    Merge pull request #117 from themichaellai/model-regex-fix
+    
+    Improved model autoload regex
+
+commit f02f4ea0dfa905171fa6b4861f2123436ef5fdb9
+Merge: 471c95f 4121fc8
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Nov 7 05:38:41 2013 -0800
+
+    Merge pull request #127 from markstos/master
+    
+    Fix typos in tests: s/witout/without/gc
+
+commit 471c95f6a97fcf26f4f30491dcd327485280afab
+Merge: 9af341b 1846287
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Nov 7 05:32:16 2013 -0800
+
+    Merge pull request #115 from et/remove-async
+    
+    remove async module
+
+commit 4121fc8fb5a60f04cea98c15463f2c008a49e943
+Author: Mark Stosberg <mark@rideamigos.com>
+Date:   Mon Nov 4 14:11:37 2013 -0500
+
+    Fix typos in tests: s/witout/without/gc
+
+commit 673ac8170421f85331f577fa28912cddb2090336
+Author: Rudi Starcevic <ooly.me@gmail.com>
+Date:   Mon Nov 4 11:26:49 2013 +0800
+
+    Add Karma unit tests
+
+commit 3f05db1a28c4c28c4359cbf33f4fcb40275426bc
+Author: Michael Lai <themichaellai@gmail.com>
+Date:   Fri Oct 25 01:14:55 2013 -0400
+
+    Improved model autoload regex
+
+commit 1846287082f2b11d3d44316d3b4d032488116e64
+Author: Eric Thomas <eric.l.m.thomas@gmail.com>
+Date:   Wed Oct 23 16:02:23 2013 -0600
+
+    remove async module
+
+commit 9af341befba30aa20ab0f8dac61ae56f8c486142
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 18:31:01 2013 +0300
+
+    Bug Fix
+
+commit 964cf2dfd10c328acb07f942905995285ed4a4e1
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 18:30:45 2013 +0300
+
+    Bug Fix
+
+commit a1f0492bfd0a5070c6b6fb3997abad31d1684f3e
+Merge: cd07a10 e9588db
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 08:21:30 2013 -0700
+
+    Merge pull request #104 from mrngoitall/master
+    
+    Fixed support for Passport Google with OAuth2
+
+commit cd07a1088d806e5f128740177d2a3e43951a6ff8
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 18:18:08 2013 +0300
+
+    Set bootstrap repo as dep
+
+commit 1c242fd25d640ed3dcbae58dcbaa39c13b94c43f
+Merge: 0714ab1 3561526
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 07:30:02 2013 -0700
+
+    Merge pull request #109 from indyplanets/no-jquery
+    
+    Remove jQuery dependency.
+
+commit 0714ab1417a9b6e30c493f5b66a803f6d5468e61
+Merge: 4dd90f1 d3a1d3c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 17:27:07 2013 +0300
+
+    Smarter User Model
+
+commit 4dd90f1e69b96d766faec38f516e32c8085f4560
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 12:23:04 2013 +0300
+
+    Fixing PR
+
+commit 6dbe99653dd6c104bd3b8ed25e24520ace126146
+Merge: 3e757fd 71365db
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 12:14:37 2013 +0300
+
+    Merge branch 'master' of git://github.com/pontifier/mean into pontifier-master
+    
+    Conflicts:
+    	gruntfile.js
+    	package.json
+
+commit d3a1d3c53bddb044c95bb7ed82c2584e9ed6e8b6
+Merge: 3e757fd 62ce19c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 01:57:51 2013 -0700
+
+    Merge pull request #111 from RobZolkos/master
+    
+    fix typos in tests
+
+commit 3e757fdef0432ab1eec6ca106b4d7e70c5db76e2
+Merge: ded16ef 69800ab
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 01:04:45 2013 -0700
+
+    Merge pull request #105 from fyockm/master
+    
+    remove unnecessary query param from find function
+
+commit ded16ef5cea3718276955b7889e0fb750beb4e4d
+Merge: 293fe61 eb96242
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 00:35:51 2013 -0700
+
+    Merge pull request #96 from Ferrari/heroku-deploy-error
+    
+    fix port binding error when deploy to heroku
+
+commit 293fe61d3ed25a9c11b12b0a92475c1b5e9c0dbc
+Merge: 2510ab5 2407999
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Oct 23 00:26:42 2013 -0700
+
+    Merge pull request #84 from dpmehta02/livereload
+    
+    Removed livereload from prod
+
+commit 3561526b1d6abb9e549e008119ea24097629caca
+Author: Jason Weaver <indyplanets@gmail.com>
+Date:   Sun Oct 20 17:15:05 2013 -0500
+
+    Revert back to bootstrap2.3.2
+
+commit 1cc82aea618572265e4f3e715ae2386ecdc3f343
+Author: Jason Weaver <indyplanets@gmail.com>
+Date:   Sun Oct 20 17:08:18 2013 -0500
+
+    Use `list-unstyled` to get rid of list styles. Using Bootstrap 3 now.
+
+commit 4f4d133790e19dc6e28b2d68c8f11e886529dcfd
+Author: Jason Weaver <indyplanets@gmail.com>
+Date:   Sun Oct 20 17:03:33 2013 -0500
+
+    Show mobile nav by default.
+
+commit 0773d240946cb04757e024606c1276888a2f6449
+Author: Jason Weaver <indyplanets@gmail.com>
+Date:   Sun Oct 20 15:59:32 2013 -0500
+
+    Updated to use @fyockm bootstrap-css-only repo. Changed header markup to use bootstrap 3
+
+commit 62ce19cbbdbec522eab2bc8de520cb0d6e9b779c
+Author: Rob Zolkos <robzolkos@gmail.com>
+Date:   Fri Oct 18 12:48:37 2013 +1100
+
+    fix typos in tests
+
+commit f77f71571497e0f8b37f53fca00d75f87ab04cc7
+Author: Jason Weaver <indyplanets@gmail.com>
+Date:   Thu Oct 17 00:30:06 2013 -0500
+
+    Dont bower install bootstrap-assets. Grab twitter bootstrap css from git.
+
+commit c11b2b5f1ca8396b2eb95c9e4d20f3c7adda55dd
+Author: Jason Weaver <indyplanets@gmail.com>
+Date:   Wed Oct 16 14:21:17 2013 -0500
+
+    Remove jQuery dependency. Default to bootstrap components written in pure AngularJS.
+
+commit 69800ab2c8c135118de2f520ca56d26cfee3e5a6
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Tue Oct 15 23:51:09 2013 -0400
+
+    remove unnecessary query param from find function
+
+commit 2510ab53e72c232530c06821e5bcd3c861c7c573
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Oct 13 09:53:31 2013 +0300
+
+    Update README.md
+
+commit 12b87106eb0b365abf8eaa97f6b5982f1c0d7db8
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Oct 13 09:49:58 2013 +0300
+
+    Fix Travis CI Bower
+
+commit 9f14dc0d395b3e37297f2622d6938bb5cc23b141
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Oct 13 09:41:02 2013 +0300
+
+    Fix Travis CI Bower
+
+commit 54f77f1fdc5f73f941ee45d07f8cdd65059f118d
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Oct 13 09:34:07 2013 +0300
+
+    Fix Travis CI Bower
+
+commit 03978179404cff2f2d332727a6bf0801819ac533
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Oct 13 09:30:26 2013 +0300
+
+    Removing Grunt Task
+
+commit b8a23eb1420bc98020e657080dffe5fa19e5dcd1
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Oct 13 09:25:42 2013 +0300
+
+    Removing Grunt Task
+
+commit 40a643a246a4daea0568f2c4ccb610f38bde5e69
+Merge: 13f03ec 97fc815
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Oct 12 23:12:17 2013 -0700
+
+    Merge pull request #101 from rapind/master
+    
+    Removed grunt-bower-task dependency.
+
+commit e9588db6d7b6055270536410369a97909529993f
+Author: William Ngo <will@mrngoitall.net>
+Date:   Sat Oct 12 21:31:38 2013 -0700
+
+    Fixed support for Passport Google with OAuth2
+
+commit 71365db8398cfc2c1d40aceef4cb25927109eb10
+Author: John Fenley <Pontifier@gmail.com>
+Date:   Sat Oct 12 00:30:45 2013 -0600
+
+    grunt watch runs test suite on any changes
+
+commit b6830ba3804cf2ba59a524b2d2ec3e05da8cbcee
+Author: John Fenley <Pontifier@gmail.com>
+Date:   Fri Oct 11 18:03:52 2013 -0600
+
+    Better user model behavior and test teardown
+
+commit fe7173224fe6183ab520e06b502a71b36ca67757
+Author: John Fenley <Pontifier@gmail.com>
+Date:   Fri Oct 11 16:45:40 2013 -0600
+
+    Run tests using test environment
+
+commit 5022bc258b76ed6a1a6aec9b11a913dbb5249a14
+Author: John Fenley <Pontifier@gmail.com>
+Date:   Fri Oct 11 15:33:50 2013 -0600
+
+    Use Scrypt for password hashes
+
+commit 4825f449400329e31646eec3d6cb9cb5953c0b4a
+Author: pontifier <pontifier@gmail.com>
+Date:   Wed Oct 9 17:43:56 2013 -0600
+
+    Update express.js
+    
+    Pretty format html from jade templates.
+
+commit 1005d3bef67acda280b0e69e8de053098034f55e
+Author: John Fenley <Pontifier@gmail.com>
+Date:   Wed Oct 9 16:51:24 2013 -0600
+
+    Pass db connection object to connect-mongo.
+
+commit 97fc8158d92ece1e018b8786bf19d248fa356f38
+Author: Dave Rapin <dave@rapin.com>
+Date:   Wed Oct 9 09:20:00 2013 -0400
+
+    Switched to bootstrap-assets bower component so we have css and js files instead of less. When this project moves to BS3, change this back to the main bootstrap repo and use the dist directory.
+
+commit 59087682414edbda28513c2568f5d1bd38041853
+Author: Dave Rapin <dave@rapin.com>
+Date:   Wed Oct 9 08:51:18 2013 -0400
+
+    Removed grunt-bower-task dependency. Requires additional installation step: bower install
+
+commit 13f03ec8485ae0ef3fa537bb0baac0a3d7d428b5
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Oct 8 15:10:31 2013 +0300
+
+    Update README.md
+
+commit b232af68ee2e3a3815c07a91c53c2c06d306a484
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Oct 8 14:38:29 2013 +0300
+
+    Update README.md
+
+commit 111da0e821964603a4c55129d96fc699ad5fe50d
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Oct 8 13:52:31 2013 +0300
+
+    Update README.md
+
+commit eb96242b90bfed70dc3690c84064cb5f00cd4203
+Author: Ferrari <shiyung@gmail.com>
+Date:   Thu Oct 3 15:29:59 2013 +0800
+
+    fix port binding error when deploy to heroku
+
+commit fe50b418ae4d75e7e28c9d7610ae8224186defb0
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Sep 29 16:00:23 2013 +0300
+
+    Fixing models auto loading bug
+
+commit 0cfbafaa7c5ec5b59359dbb59a327d295c40e55e
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Sep 29 15:42:12 2013 +0300
+
+    Fixing user details exposure in articles example
+
+commit 2cab7b72b3b489fdc29c7c1d95a157335d16c4dc
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Sep 29 14:46:10 2013 +0300
+
+    Fixed relative paths for html5mode
+
+commit a23f46f0661b7dbf7baf1bf6bed8d3c5234bc04e
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Sep 29 14:33:20 2013 +0300
+
+    Revert "Merge pull request #79 from mrngoitall/master"
+    
+    This reverts commit b83fb4a4c944eea760db000249f126f543596dab, reversing
+    changes made to f5f4663774002731123dd2ab08ad90052adb4008.
+
+commit b83fb4a4c944eea760db000249f126f543596dab
+Merge: f5f4663 035dd2c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Sep 29 04:21:34 2013 -0700
+
+    Merge pull request #79 from mrngoitall/master
+    
+    Replaced SHA1 password hashing with bcrypt in Local Passport authentication
+
+commit f5f4663774002731123dd2ab08ad90052adb4008
+Merge: 612b014 e230ea2
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Sep 29 03:54:30 2013 -0700
+
+    Merge pull request #92 from fyockm/walk
+    
+    walk models directory
+
+commit e230ea224ecbecda083ae51840db8e802a1a02fa
+Author: Drew Fyock <fyockm@gmail.com>
+Date:   Fri Sep 27 23:37:20 2013 -0400
+
+    walk models directory
+
+commit 24079996ddb63e25efb8b683312a975b78e083bb
+Author: Dev Mehta <dpmehta02@gmail.com>
+Date:   Wed Sep 18 15:50:15 2013 -0700
+
+    removed livereload from prod
+
+commit 035dd2c15033acec450e707b65be39159b1ed2ac
+Author: William Ngo <will@mrngoitall.net>
+Date:   Fri Sep 13 15:48:58 2013 -0700
+
+    Replaced SHA1 password hashing with more bcrypt
+
+commit 612b014e470a444d157617dfc89e231726a92a39
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Sep 12 20:50:39 2013 +0300
+
+    Removing Compass, Fixing Windows Errors, Removing Makefile, Tiding Code
+
+commit 1fbd2452aa9f52e1dd06b73a844e14e7dee0607b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Sep 12 20:44:10 2013 +0300
+
+    Removing Compass, Fixing Windows Errors, Removing Makefile, Tiding Code
+
+commit 33a30738659fee6842d5b23bb73fcee1f7dcc381
+Merge: c42c8eb fc65241
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Sep 12 02:05:35 2013 -0700
+
+    Merge pull request #75 from claydiffrient/master
+    
+    Remove "Requirements for Grunt from README.md
+
+commit fc6524133bcb606edb98ac1f6df2e23be2be71b3
+Author: Clay Diffrient <clay.diffrient@gmail.com>
+Date:   Wed Sep 11 15:35:35 2013 -0600
+
+    Remove (Requirements for Grunt)
+
+commit 46f0e15394dd37e33d0d349178b6584276019600
+Author: Clay Diffrient <clay.diffrient@gmail.com>
+Date:   Wed Sep 11 15:31:37 2013 -0600
+
+    Fix - Remove Ruby Dependencies (Grunt no longer needs them)
+
+commit c42c8ebc64ebf860a013e91982a11e2ce70b73e2
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Sep 10 16:28:47 2013 +0300
+
+    Fixing style, adding article test
+
+commit 014d941d6e9f8f47639c89bfecc24cf8601f0a28
+Author: Roie Schwaber-Cohen <roie.cohen@gmail.com>
+Date:   Tue Sep 10 12:36:19 2013 +0300
+
+    Merge from gabrielmanchini - issue #50
+
+commit 84874bce5e0e5b5f723cbc4f3fc994f770c3fbca
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Sep 9 12:32:59 2013 +0300
+
+    Middleware Fix
+
+commit 7fc57379b4017e11067a53539b2552ec60321199
+Merge: 63b7c9f d8fa855
+Author: Roie Cohen <roie.cohen@gmail.com>
+Date:   Sun Sep 8 13:32:43 2013 -0700
+
+    Merge pull request #62 from amitaibu/required-title
+    
+    Title on article create/update should be required
+
+commit 63b7c9fec5bf784583b5235f692bf992e86b2353
+Merge: 1ca5d16 5610d78
+Author: Roie Cohen <roie.cohen@gmail.com>
+Date:   Sun Sep 8 13:31:58 2013 -0700
+
+    Merge pull request #63 from rafadev7/master
+    
+    Removing an unecessary code line
+
+commit 5610d78c70acfe884c960b2058403dd2fb3e9c14
+Author: RafaDev7 <rafadev7@gmail.com>
+Date:   Sun Sep 8 06:28:32 2013 -0300
+
+    Removing an unecessary code line
+
+commit d8fa8556b78587c8504b81ec01d61b67bd0417ae
+Author: Amitai Burstein <amitai@gizra.com>
+Date:   Sun Sep 8 00:39:28 2013 +0300
+
+    Title should be required.
+
+commit 1ca5d16807d73af334c68985a75103a27c513b63
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Sep 7 16:44:59 2013 +0300
+
+    Services Dependency Injection
+
+commit f6e59d3779f1b1b104b2c45ba2394e5970ccb694
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Sep 7 15:36:01 2013 +0300
+
+    Creating Modules
+
+commit 3a329dc2dcef702910d41760e08feb71a99bbead
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Sep 7 13:21:52 2013 +0300
+
+    Fixing Redirect in Authentication middleware
+
+commit f5cbb58de6538c31ac89b7521feda8158bda668a
+Merge: f65e7bd 01c22e4
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Sep 7 03:18:35 2013 -0700
+
+    Merge pull request #60 from Jon-Biz/patch-1
+    
+    Updated authorization.js redirect
+
+commit f65e7bd5538014dc8db827d4febbbb8dcf828a15
+Merge: 517fc6f 0116b34
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Sep 7 03:17:54 2013 -0700
+
+    Merge pull request #55 from memolog/google-oauth2
+    
+    use Google OAuth2Strategy to avoid the error that key $t must not start with '$'.
+    
+    hey @memolog great commit! thank you...
+
+commit 517fc6f9a8e12b956e22dcc83bf76e622773ec6b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Sep 7 13:13:06 2013 +0300
+
+    Adding Livereload to Jade files
+
+commit 01c22e42ecff1acbdbfdcf50e677a60c78f6720c
+Author: Jon-Biz <github@elbizri.com>
+Date:   Fri Sep 6 15:23:44 2013 -0700
+
+    Updated authorization.js redirect
+    
+    The authorization.js redirect here sends people to '/login', which doesn't exist. I changed this to point to '/'.
+
+commit 0116b3454e896d282d6a51e1a6e31549c076134b
+Author: Yutaka Yamaguchi <yyamaguchi@sixapart.com>
+Date:   Wed Sep 4 22:45:05 2013 +0900
+
+    use Google OAuth2Strategy to avoid error that key $t must not start with '$'
+
+commit 39db68138a950a5e681f6a3ddb46320c29507ff2
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Aug 28 14:56:55 2013 +0300
+
+    Update README.md
+
+commit d282aa0f4d6c42a6bf85aa5f1d98e7cf23670749
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 13:47:17 2013 +0300
+
+    Fix bower post install script
+
+commit 3f3f0394d3f5911e0c6f11a59be73bfa491f0be5
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 13:44:35 2013 +0300
+
+    Fix bower post install script
+
+commit 287c6264f9e8cfee84ed7caac045d2c047348866
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 13:40:25 2013 +0300
+
+    Fix bower post install script
+
+commit 3bececf872414bd180ba435ddeb8984a34dfdef0
+Merge: 9815266 2955fdf
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 13:35:02 2013 +0300
+
+    Merge branch 'master' of https://github.com/linnovate/mean
+
+commit 98152664117518c142c887335424c6c8f8fbc68f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 13:34:46 2013 +0300
+
+    Config
+
+commit 00357937c40b500597e207798bf47947341f085f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 13:30:32 2013 +0300
+
+    test
+
+commit 2955fdf629b23a425cb78a5661fb0ce3258312da
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Tue Aug 27 13:27:53 2013 +0300
+
+    Update README.md
+
+commit cbc337b5cc0b0b0706b457e01a66bd07a4f7d540
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Tue Aug 27 13:27:06 2013 +0300
+
+    Update README.md
+
+commit 2bf84d780acada5cb4bad01af22c5437d4f1fe87
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Tue Aug 27 13:26:29 2013 +0300
+
+    Update README.md
+    
+    fixed wording and added mongohq reference to heroku deployment
+
+commit 02391874cc71b31753d891969744b025fb6e62e0
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 13:25:55 2013 +0300
+
+    test
+
+commit ddaecff486d06ec1ea9eca60052c0a95025f6d17
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Tue Aug 27 13:23:06 2013 +0300
+
+    Update README.md
+    
+    Added syntax highlighting
+
+commit aaa597b7036cf188f44945f3635c6e1b5c693841
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Tue Aug 27 13:18:17 2013 +0300
+
+    Update README.md
+    
+    Added explanation of how to deploy to heroku
+
+commit df6ab285c30bac40bcff7e72b22d7c74b74ba3f4
+Merge: ebd0f7e e566939
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 03:12:22 2013 -0700
+
+    Merge pull request #46 from memolog/fix-twitter-strategy
+    
+    Use twitter.id_str instead of twitter.id in twitter strategy, great catch @memolog!
+
+commit ebd0f7edd80a1636e56fa2f0856198e37a64cf7e
+Merge: c1caddb 905d547
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 03:05:02 2013 -0700
+
+    Merge pull request #44 from markizs/nav-selected
+    
+    added isSelected function for nav selection
+
+commit c1caddb3ef4fd8f85ef0bc41ac4787dd43eb9146
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 12:53:27 2013 +0300
+
+    Forever Heroku Support
+
+commit d603cb4c7f7d52cefc2705114a73ebc8ce668594
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 12:43:33 2013 +0300
+
+    Nodemon Heroku Support
+
+commit 5c58883b614c1c4e4a0d33b61a1e54b96fc1140f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 27 12:39:49 2013 +0300
+
+    Nodemon Heroku Support
+
+commit d9db70445ca253460515b7ec003784011213563f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Aug 26 18:16:15 2013 +0300
+
+    Grunt Support Added, Fixed Bower support on heroku
+
+commit b1d0dba5542a985e8ab8e1c20effd411f6273d32
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Mon Aug 26 18:15:54 2013 +0300
+
+    Grunt Support Added, Fixed Bower support on heroku
+
+commit e56693954b368a4616a547d05fdfd3def023dc5c
+Author: Yutaka Yamaguchi <yyamaguchi@sixapart.com>
+Date:   Mon Aug 26 22:05:45 2013 +0900
+
+    Use twitter.id_str instead of twitter.id because project.id is returned string explicitly by the following change
+    
+    https://github.com/jaredhanson/passport-twitter/commit/d9112c4c0575c64243692a732c2590e8d158bdcf
+
+commit 905d5477018e58d7adbbc98dfc606fd5bb1b4031
+Author: Martins Untals <martins.untals@gmail.com>
+Date:   Thu Aug 22 22:31:10 2013 +0300
+
+    added isSelected function for nav selection
+
+commit 3b4cfbbbc41ca6213d0fdff626c1d956a917bca2
+Merge: d41074d 1d3b83c
+Author: Roie Cohen <roie.cohen@gmail.com>
+Date:   Mon Aug 19 13:28:51 2013 -0700
+
+    Merge pull request #40 from mtt87/patch-1
+    
+    Update README.MD
+
+commit d41074df941f38c410c646b3b858a181c0bb8e15
+Author: Roie Schwaber-Cohen <roie.cohen@gmail.com>
+Date:   Mon Aug 19 22:45:42 2013 +0300
+
+    Disabled compass until dependency issues are resolved
+
+commit 1d3b83c2f0fb4f8094c027597a741d554b48e147
+Author: Mattia Asti <the.oozic@gmail.com>
+Date:   Sat Aug 17 10:53:00 2013 +0200
+
+    Update README.MD
+    
+    Getting started section link were broken.
+    Fixed with absolute link path (https://github.com/linnovate/mean/blob/master/ ... )
+
+commit b26b952ba844726c125efa21247c35298f40e904
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 17 01:20:07 2013 +0300
+
+    Cleaning Up
+
+commit 05a0082f4c162ba56cd62788296e6ef32e3d0aab
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 17 01:10:46 2013 +0300
+
+    Cleaning Up
+
+commit d7fcb2bf96fab432bd1de34bf2dff93f1fb87658
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 17 01:07:57 2013 +0300
+
+    Cleaning Up
+
+commit 6c3564f37d3b9e65ce8a0ea530ba77706d0a5c4a
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 17 01:06:17 2013 +0300
+
+    Cleaning Up
+
+commit e34d2d83cab225718596540bc8c8c39a3492dfea
+Merge: eee1091 82ef533
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Fri Aug 16 14:41:49 2013 -0700
+
+    Merge pull request #38 from oleyb/master
+    
+    Added semicolons to server code for consistency and general formatting + beautifying the code
+
+commit 82ef53392e8fabd9ccb86a283a2d3e7b6418c43d
+Author: Brian Oley <brian@sloth.phtcorp.com>
+Date:   Fri Aug 16 15:23:09 2013 -0400
+
+    Added semicolons to server code for consistency and general formatting
+
+commit eee109187e4ad566cbef8e95368184c7836d8561
+Merge: 3805a89 d7c04a8
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Fri Aug 16 01:19:44 2013 -0700
+
+    Merge pull request #37 from oleyb/master
+    
+    Added a missing semicolon for consistency.
+
+commit d7c04a813c0d1112f60fe98ff415bd384d42a0c6
+Author: Brian Oley <brian.oley@gmail.com>
+Date:   Thu Aug 15 23:23:25 2013 -0400
+
+    Added a missing semicolon for consistency.
+
+commit 3805a898fad97bda4cc809372ab56e1a66aaa1d7
+Merge: 3579a4f 5e1b568
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Aug 14 09:05:51 2013 -0700
+
+    Merge pull request #34 from diegonetto/master
+    
+    Consider loading dynamic view-helpers after connect-flash and express.session
+
+commit 3579a4fec548f8a662735dc3a0ce53ab1e3e8658
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Aug 14 12:52:35 2013 +0300
+
+    Adding Travis CI File
+
+commit 5e1b5682b4efdb838884820d8aa2a6a9bbf6953a
+Author: Diego Netto <diegormnetto@gmail.com>
+Date:   Wed Aug 7 22:11:08 2013 -0500
+
+    Load dynamic view-helpers after connect-flash and express.session
+
+commit f026371045378c9878941fb9d1e916f84660f5a4
+Merge: 7759257 dee0664
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Aug 7 07:20:31 2013 -0700
+
+    Merge pull request #33 from spacemonkey/master
+    
+    More tasty README goodness
+
+commit dee06642748714a9c72f4174e14e1de93b2116c1
+Author: Mitch Pirtle <mitch@spacemonkeylabs.com>
+Date:   Wed Aug 7 15:56:44 2013 +0200
+
+    Adding explanation for environments to README
+
+commit 75c720afa5fb5fb4f2859075d9163a0c1b33f43a
+Author: Mitch Pirtle <mitch@spacemonkeylabs.com>
+Date:   Wed Aug 7 15:55:41 2013 +0200
+
+    Adding explanation for environments to README
+
+commit 9d8cdf0212173bf79072e8b08a8469f525a14464
+Author: Mitch Pirtle <mitch@spacemonkeylabs.com>
+Date:   Wed Aug 7 15:55:02 2013 +0200
+
+    Adding explanation for environments to README
+
+commit c5dbb931eec57ac5f0bb0eb014566c7444b54151
+Author: Mitch Pirtle <mitch@spacemonkeylabs.com>
+Date:   Wed Aug 7 15:54:06 2013 +0200
+
+    Adding explanation for environments to README
+
+commit 775925723c5b83be911279e8b5bfeb8cdd58d16a
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Aug 7 16:28:22 2013 +0300
+
+    Update README.md
+
+commit f6801c543787f8caac310ea4461e7d54760b6635
+Author: Mitch Pirtle <mitch@spacemonkeylabs.com>
+Date:   Wed Aug 7 14:12:32 2013 +0200
+
+    Updating configuration text in README. Still needing more definition on social registration properties.
+
+commit 170eb80377b3f35e3c8607e8c94ebe030cc51760
+Author: Mitch Pirtle <mitch@spacemonkeylabs.com>
+Date:   Wed Aug 7 14:07:36 2013 +0200
+
+    Updating configuration text in README. Still needing more definition on social registration properties.
+
+commit 211e8309ea3f5b19653dc22296a45495403d4d11
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Aug 7 14:36:20 2013 +0300
+
+    Removing forward slash
+
+commit c11643bc03a85ebd4d2d97057c9a5721b23a7782
+Merge: af5e48f d805fc2
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Aug 7 04:32:42 2013 -0700
+
+    Merge pull request #32 from spacemonkey/master
+    
+    Updating README with requirements for grunt, and slightly more clarity o...
+
+commit d805fc21b2db855601cacdd59f23cd12c1646632
+Author: Mitch Pirtle <mitch@spacemonkeylabs.com>
+Date:   Wed Aug 7 13:23:19 2013 +0200
+
+    Updating README with requirements for grunt, and slightly more clarity on config.js
+
+commit af5e48fd11660863969eba653d35db293c7ed239
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Aug 7 12:36:26 2013 +0300
+
+    Update README.md
+
+commit c7db3a255d0bdde8417e01a91185fbaa51fad01f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 6 15:39:18 2013 +0300
+
+    Adding CSS For non-sass Applications
+
+commit 7e94a15a4be5bcbb846bb10074cb0be64c2a188c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Aug 6 15:39:09 2013 +0300
+
+    Adding CSS For non-sass Applications
+
+commit 7f1faeb1cc037d8f99e8c2ccf1aa0006d0e97e25
+Author: Roie Schwaber-Cohen <roie@gomango.com>
+Date:   Tue Aug 6 13:55:51 2013 +0300
+
+    Removed index.css
+
+commit 33402688c1550797db09d01245a4615dcb166897
+Author: Roie Schwaber-Cohen <roie@gomango.com>
+Date:   Tue Aug 6 13:47:56 2013 +0300
+
+    Added grunt and nodemon
+
+commit 69ccd09e527894d8e0e992dceb6cb563dd759049
+Merge: 93c9a2c 0f948dc
+Author: Roie Schwaber-Cohen <roie@gomango.com>
+Date:   Tue Aug 6 01:37:17 2013 +0300
+
+    Merge branch 'master' of https://github.com/linnovate/mean
+    
+    Conflicts:
+    	config/config.js
+
+commit 0f948dc93f2959bad6aef84fada8510533564f9d
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Aug 4 01:49:46 2013 +0300
+
+    Config File Rebasing
+
+commit 93c9a2ce85a012b075a1df8a45cc56f1d7eaa288
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:22:42 2013 +0300
+
+    Cleaning Up
+
+commit 8f3af33c75c6746a1a4b4a590d46fbe65f24b0c9
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:22:42 2013 +0300
+
+    Cleaning Up
+
+commit e6daba576ebbc443c68a028a6848c7bf19d0d2bf
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:13:47 2013 +0300
+
+    Cleaning Up
+
+commit fd76c389ed51948c59b95b86f6c6500483b2fc64
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:13:47 2013 +0300
+
+    Cleaning Up
+
+commit de258926ccc06afa6cc507d58f20350ca75043db
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:12:27 2013 +0300
+
+    Cleaning Up
+
+commit 26f240baa2ec918c5ef9c9d62f07fe1aa8fd4c31
+Merge: 5cef4aa 101b45d
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:07:26 2013 +0300
+
+    Merge branch 'master' of https://github.com/linnovate/mean
+
+commit 8009fbee660ef089f29a4d6004641dc5047e2cd9
+Merge: fb38c34 4044fdb
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:07:26 2013 +0300
+
+    Merge branch 'master' of https://github.com/linnovate/mean
+
+commit 5cef4aafd5b39134d84a01c44f8cca9d26e3842b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:06:48 2013 +0300
+
+    Cleaning Up
+
+commit fb38c344587f7f9a880332fcedfafedc57e50b5a
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:06:48 2013 +0300
+
+    Cleaning Up
+
+commit 101b45d1685aa75c2b2530d2205723507d43a81b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:03:04 2013 +0300
+
+    Including Inspiration Credit
+
+commit 4044fdb3e92fd510e12202487733aa31713512ba
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sat Aug 3 21:03:04 2013 +0300
+
+    Including Inspiration Credit
+
+commit 38538b0e5b41fd43ce76b996f89e28ff39990600
+Merge: 23dc7a3 8c28f50
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 28 07:14:45 2013 -0700
+
+    Merge pull request #15 from bwestmoreland/master
+    
+    add bootstrap class 'unstyled' to remove bullet points in article list
+
+commit 3958dcaa45c22b087e22388f6e32a40548cb7c05
+Merge: 6598c04 dda6f5c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 28 07:14:45 2013 -0700
+
+    Merge pull request #15 from bwestmoreland/master
+    
+    add bootstrap class 'unstyled' to remove bullet points in article list
+
+commit 23dc7a3395b0d1e4e9092a5fab3be57d370f6957
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jul 25 16:25:43 2013 +0300
+
+    Articles Example Fix
+
+commit 6598c04a26a4d21a1f00c430be555bb7c992cb48
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jul 25 16:25:43 2013 +0300
+
+    Articles Example Fix
+
+commit 60b133183d4330708528d085c3a58c79175fa1b8
+Merge: 06436c0 6b0109e
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jul 25 16:18:48 2013 +0300
+
+    Merge branch 'mobile'
+
+commit 8f3e699fff49d12a7549a757c0dc036e6b9953ae
+Merge: bbf8727 ccf7eb3
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jul 25 16:18:48 2013 +0300
+
+    Merge branch 'mobile'
+
+commit 6b0109e5562f2ed428702a9da0e085eabbda072c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jul 25 16:17:09 2013 +0300
+
+    Articles Example Fix
+
+commit ccf7eb382e7abd389323361ff7bce1c207c5176b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jul 25 16:17:09 2013 +0300
+
+    Articles Example Fix
+
+commit 8c28f507bdb30666fd66c53deed0a0d610cfa659
+Author: Brent Westmoreland <git@westmoreland.us>
+Date:   Wed Jul 24 21:39:43 2013 -0400
+
+    Change hebrew to english in create view
+
+commit dda6f5cbd5fa1026734d7c1120cbd7ab5866bf9c
+Author: Brent Westmoreland <git@westmoreland.us>
+Date:   Wed Jul 24 21:39:43 2013 -0400
+
+    Change hebrew to english in create view
+
+commit b9d9b61de0aa754a2d8b386b3b9f72458724487a
+Author: Brent Westmoreland <brent@westmoreland.us>
+Date:   Tue Jul 23 13:26:03 2013 -0400
+
+    add bootstrap class 'unstyled' to remove bullet points in article list
+
+commit cb62e46f16145409fab7be58c2604b0d64bba69a
+Author: Brent Westmoreland <brent@westmoreland.us>
+Date:   Tue Jul 23 13:26:03 2013 -0400
+
+    add bootstrap class 'unstyled' to remove bullet points in article list
+
+commit 06436c0158bb60df9e654f750e1c2daf3f913eb1
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Sat Jul 20 22:17:11 2013 +0300
+
+    Update README.md
+    
+    Added slight doc fix based on query in #13 , fixes #13
+
+commit bbf8727d6053fdef7f537b90eb2a038258498c5e
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Sat Jul 20 22:17:11 2013 +0300
+
+    Update README.md
+    
+    Added slight doc fix based on query in #13 , fixes #13
+
+commit 12923c9087752cb01bf3decc9c4255f1db8e13aa
+Merge: 59a0cfd 5d5896c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 14 11:40:39 2013 -0700
+
+    Merge pull request #10 from ariutta/patch-1
+    
+    Update README.md
+
+commit 6b6b22b910cf0c74772323f6623fce589d55837e
+Merge: 6413abf 71736d4
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 14 11:40:39 2013 -0700
+
+    Merge pull request #10 from ariutta/patch-1
+    
+    Update README.md
+
+commit 59a0cfdcc30de26f953f0ee1816bd20337ba91a1
+Merge: a9bde6f f55bc2f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 14 11:38:15 2013 -0700
+
+    Merge pull request #11 from ariutta/patch-2
+    
+    valid name needs to be lowercase
+
+commit 6413abf9881b682423856ecdbf68ecba05b0398a
+Merge: abf4d66 c0ffda5
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 14 11:38:15 2013 -0700
+
+    Merge pull request #11 from ariutta/patch-2
+    
+    valid name needs to be lowercase
+
+commit f55bc2f32d11cc1ec7f8c5286100e84810f54aa7
+Author: Anders Riutta <anders.riutta@gmail.com>
+Date:   Sun Jul 14 11:25:55 2013 -0700
+
+    valid name needs to be lowercase
+
+commit c0ffda5298606324eb58fd8ac66aa7787cfe7d75
+Author: Anders Riutta <anders.riutta@gmail.com>
+Date:   Sun Jul 14 11:25:55 2013 -0700
+
+    valid name needs to be lowercase
+
+commit 5d5896c64163df91ada6e99bd77f16565002f803
+Author: Anders Riutta <anders.riutta@gmail.com>
+Date:   Sun Jul 14 11:08:03 2013 -0700
+
+    Update README.md
+    
+    correct way to install bower dependencies
+
+commit 71736d4784314f9f3e26bd49fbcb107d703a25e9
+Author: Anders Riutta <anders.riutta@gmail.com>
+Date:   Sun Jul 14 11:08:03 2013 -0700
+
+    Update README.md
+    
+    correct way to install bower dependencies
+
+commit a9bde6f9b1000e85b266d990eca19ce81569ff2c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 23:51:33 2013 +0300
+
+    Update README.md
+
+commit abf4d669fb5aa72ce7b5ee7a995690f0a8445707
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 23:51:33 2013 +0300
+
+    Update README.md
+
+commit 78aa99a846c21040317c02f7e528b4730b5c09d0
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 23:48:59 2013 +0300
+
+    Update README.md
+
+commit de9daeda86780cb5e1e5b28b3fefca7b821e3844
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 23:48:59 2013 +0300
+
+    Update README.md
+
+commit 44502c0a2e0106d518c3c94dbb99cc4431e9804f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 23:39:21 2013 +0300
+
+    UI Bootstrap
+
+commit 6995ba288d54b1d628bd623f378deac3fff08555
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 23:39:21 2013 +0300
+
+    UI Bootstrap
+
+commit 5b1488a095d291c677fad9e12e4cf9d531bfb27b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 23:37:21 2013 +0300
+
+    UI Bootstrap
+
+commit 713a19683debdcc2957cade38cad6540907db2fa
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 23:37:21 2013 +0300
+
+    UI Bootstrap
+
+commit c861fd6266d126b6836426f850da174ce1252754
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:54:09 2013 +0300
+
+    Readme Changes
+
+commit a28a9514514fd37c7bfb02ed1e9b4a1b81ebdedc
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:54:09 2013 +0300
+
+    Readme Changes
+
+commit b298293628901faa7b875b86493a8ca263b118b5
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:51:38 2013 +0300
+
+    Readme Changes
+
+commit 4aa95b491512af72320d3820a037d3caaf12f007
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:51:38 2013 +0300
+
+    Readme Changes
+
+commit dcc82a67a2597e4d468365cfe3b2b2708322d95a
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:46:51 2013 +0300
+
+    Adding Bower Support
+
+commit c96c6544b48da6b015c871775aa4cf13ff8a30a7
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:46:51 2013 +0300
+
+    Adding Bower Support
+
+commit d69bf01fbd0fca40d9a49fad99231b7a1cdb6b14
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:46:20 2013 +0300
+
+    Adding Bower Support
+
+commit f9f4983a25dc6e595e0c91e139c1717227a78c6f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:46:20 2013 +0300
+
+    Adding Bower Support
+
+commit 4e59fd92ef13812fa48b72fc691a2fe1c4b4ac6e
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:44:37 2013 +0300
+
+    Adding Bower Support
+
+commit a45c695f089c2d1b7a3e07a51b201864dba0073c
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:44:37 2013 +0300
+
+    Adding Bower Support
+
+commit aa6a09b46f1b87fd2428611cebe569bb7d275cf6
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:41:39 2013 +0300
+
+    Adding Bower Support
+
+commit 3f689eefefb77c46a07560ad5569351fc4571188
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:41:39 2013 +0300
+
+    Adding Bower Support
+
+commit 719628f934a7b2a3488389195af0c84f8fe97519
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:40:39 2013 +0300
+
+    Adding Bower Support
+
+commit 80be397b95aeea9211ed8858865679d4d0a5f249
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:40:39 2013 +0300
+
+    Adding Bower Support
+
+commit 904a050b61f48b3edbaa33d17de791341956a39f
+Merge: a4147b9 3688970
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:39:37 2013 +0300
+
+    Adding Bower Support
+
+commit 22ce12ea0b53d4819e729123c734b70d47f9aeee
+Merge: ebbe968 f2ab7ef
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:39:37 2013 +0300
+
+    Adding Bower Support
+
+commit 3688970aa9a328e13d8a47f16770542967aca3f9
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:36:41 2013 +0300
+
+    Adding Bower Support
+
+commit f2ab7ef5371d041fd9f771eace79855e166108d0
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Tue Jul 9 20:36:41 2013 +0300
+
+    Adding Bower Support
+
+commit ebbe968359938f1571ec0e7b69d7d1fd89217ff4
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 7 13:13:33 2013 +0300
+
+    Mean Logger Module
+
+commit a4147b95386ee5d426c33ea95b02b5d8cd690dce
+Merge: c30d667 1ad9777
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 7 13:09:32 2013 +0300
+
+    Merge branch 'master' of https://github.com/linnovate/mean
+
+commit decb7a9993650128f618eb35725cf254c5a89aab
+Merge: 57eb606 ac97ef7
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 7 13:09:32 2013 +0300
+
+    Merge branch 'master' of https://github.com/linnovate/mean
+
+commit c30d66711484bbf1cc4b1b633516788293e07932
+Merge: 33c9c50 add868f
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 7 13:04:58 2013 +0300
+
+    Merge branch 'master' into mean-modular
+
+commit 57eb606aad4d12b9722b4d3473f90eb5e59c2a54
+Merge: 5114a04 ddd0b3b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jul 7 13:04:58 2013 +0300
+
+    Merge branch 'master' into mean-modular
+
+commit 1ad977726bfd5f5d87af8564ee78fd72a65369d3
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Jul 3 18:35:24 2013 +0300
+
+    Update README.md
+
+commit ac97ef7c51a863a0a6f27fcc12b217105820337d
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Wed Jul 3 18:35:24 2013 +0300
+
+    Update README.md
+
+commit df84c4f0dc7b650740c830e49f175493b282f264
+Merge: 2b1020f 928f40c
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Jul 1 01:24:27 2013 +0300
+
+    Merge branch 'master' of https://github.com/linnovate/mean
+
+commit 6298f4b839d4cd1fd239afb8d3843124ef8d5621
+Merge: afb080c 41da378
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Jul 1 01:24:27 2013 +0300
+
+    Merge branch 'master' of https://github.com/linnovate/mean
+
+commit 2b1020fe3ab2414bac8b626c56cc489e42e1d4a8
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Jul 1 01:18:05 2013 +0300
+
+    Fixed ""Implicit textOnly for `script` and `style` is deprecated."" warning - see http://www.kaspertidemann.com/how-to-fix-the-implicit-textonly-for-script-and-style-is-deprecated-error-in-jade/
+
+commit afb080c3bc718d5981469896a3b7285fee7393e7
+Author: Lior Kesos <Lior@linnovate.net>
+Date:   Mon Jul 1 01:18:05 2013 +0300
+
+    Fixed ""Implicit textOnly for `script` and `style` is deprecated."" warning - see http://www.kaspertidemann.com/how-to-fix-the-implicit-textonly-for-script-and-style-is-deprecated-error-in-jade/
+
+commit 928f40c961b01789014fe2ea69163040135f1fd5
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Fri Jun 28 12:46:47 2013 +0300
+
+    updated readme to make sure that people understand to open a browser on port 3000 in the end of the install, fixes #5
+
+commit 41da378e8ca81dd5a5f2af6ff9f104518dc117a3
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Fri Jun 28 12:46:47 2013 +0300
+
+    updated readme to make sure that people understand to open a browser on port 3000 in the end of the install, fixes #5
+
+commit a42988f3cab07880f5d05fe2c3535e9e1ea79ae7
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Wed Jun 26 23:49:57 2013 +0300
+
+    Update README.md
+
+commit 80f272658aa9ff7c3157dba6b2022bd7d2541ddf
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Wed Jun 26 23:49:57 2013 +0300
+
+    Update README.md
+
+commit 29fafa235ea8eae8da6591a2485622c598137839
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Wed Jun 26 23:43:11 2013 +0300
+
+    Update README.md
+
+commit 91ff079af718a6861c393662b0ee4e164715e182
+Author: Lior Kesos <lior@linnovate.net>
+Date:   Wed Jun 26 23:43:11 2013 +0300
+
+    Update README.md
+
+commit 33c9c50cf709e73f2d09c93a8fa8c8f87de7350b
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:55:23 2013 +0300
+
+    Adding the logger module
+
+commit 5114a04ca1b60c4c780213572afb9dbf0d882ebf
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:55:23 2013 +0300
+
+    Adding the logger module
+
+commit d115178d2b866db612d30d456defd849994c1459
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:53:56 2013 +0300
+
+    Adding the logger module
+
+commit 557e775c96c5a9e036fa281044f91dc9c91b2a4d
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:53:56 2013 +0300
+
+    Adding the logger module
+
+commit add868f34f7102bd2acaa73954e6fad1cc022537
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:49:51 2013 +0300
+
+    removing the logger module
+
+commit ddd0b3b9a26a7945f53a0285d81ea34197b3daf2
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:49:51 2013 +0300
+
+    removing the logger module
+
+commit 33e1025ad0d2227ac00fd0d257bead015453eea2
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:48:33 2013 +0300
+
+    removing the logger module
+
+commit 9761df3850c60881a3979a2f2820b75f762563b8
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:48:33 2013 +0300
+
+    removing the logger module
+
+commit ae190e3d72731bb47f4dabd082ce1c3e81eedd6e
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:46:08 2013 +0300
+
+    Adding the logger module
+
+commit fd9de92bc5b3f231737e4fdd30aabb5e833b76ac
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Sun Jun 23 20:46:08 2013 +0300
+
+    Adding the logger module
+
+commit 1c7837c8de63e39f248d6b5034c618ee1e90287d
+Merge: 5f51593 2225dda
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 18:26:35 2013 +0300
+
+    conflict resolution
+
+commit da0b7f1ed3e24ddb9b371f5525d9ba42a4634454
+Merge: f8282a5 1dd124a
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 18:26:35 2013 +0300
+
+    conflict resolution
+
+commit 5f51593a690762c370aa515c9d172082847eeebf
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 18:24:49 2013 +0300
+
+    Test
+
+commit f8282a55dee11adcf2e64ffd1d61a88b05eb296a
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 18:24:49 2013 +0300
+
+    Test
+
+commit 2225dda440d0b3e322688910983fe4c4469a5716
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:29:56 2013 +0300
+
+    Update server.js
+
+commit 1dd124a5c8827ec54f3e30675778ce8be8b4d966
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:29:56 2013 +0300
+
+    Update server.js
+
+commit 4d2112079a1cf83d93019252d7a9557b8d1f73ca
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:27:48 2013 +0300
+
+    Update README.md
+
+commit e66533e8c1de9adf2ca26b57a480732c0059c4be
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:27:48 2013 +0300
+
+    Update README.md
+
+commit 6ee822a76cf92bae3e64c59b8e820e3bcc7e06dc
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:26:35 2013 +0300
+
+    Update README.md
+
+commit d6211864e76dbae72b44823f2393f92f2b1553e8
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:26:35 2013 +0300
+
+    Update README.md
+
+commit c65ba05ff91653c2c5d78fb4db541e2d19e487a6
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:19:48 2013 +0300
+
+    Update README.md
+
+commit c849b8544a1f13dff957a1b4cadde63c72037a92
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:19:48 2013 +0300
+
+    Update README.md
+
+commit e70923fdbf0916504b2092076efa0c843416ecf8
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:14:06 2013 +0300
+
+    Update README.md
+
+commit 249c246778e818e07e5c945b21e148a717b5ac6d
+Author: Amos Haviv <mail@amoshaviv.com>
+Date:   Thu Jun 20 15:14:06 2013 +0300
+
+    Update README.md
